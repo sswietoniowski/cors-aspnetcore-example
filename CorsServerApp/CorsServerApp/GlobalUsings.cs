@@ -1,0 +1,10 @@
+global using Microsoft.AspNetCore.Builder;
+global using Microsoft.AspNetCore.Cors;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.Extensions.Logging;
+global using Microsoft.Net.Http.Headers;
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
